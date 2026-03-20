@@ -1,4 +1,4 @@
-# 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
+ # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
 
 **AIM:**
 
@@ -19,7 +19,7 @@ To determine the voltage in the circuit using nodal analysis both theoretically 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
 **Circuit diagram**
-<img width="1599" height="865" alt="image" src="https://github.com/user-attachments/assets/8ceff3e0-6f51-44f0-9cbc-006274f7024e" />
+<img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/b08710a0-b95c-4313-b76b-827ae5c006fc" />
 
  
 **PROCEDURE:**
@@ -41,13 +41,11 @@ Tabular Column:
 
 
 Calculation:
-<img width="1600" height="1172" alt="image" src="https://github.com/user-attachments/assets/5d0edc65-8965-4f65-8ebf-6b52819f7496" />
-<img width="784" height="1387" alt="image" src="https://github.com/user-attachments/assets/bdc97914-20e9-45dd-8318-0a45602f09b9" />
-
+<img width="1600" height="1233" alt="image" src="https://github.com/user-attachments/assets/2a89901d-c18c-4793-a7b8-9d52a95c9401" />
+<img width="896" height="1600" alt="image" src="https://github.com/user-attachments/assets/18e35a92-f7af-4c37-816c-fa6fb360b1c2" />
 
 Marks Split Up:
-<img width="1578" height="1083" alt="image" src="https://github.com/user-attachments/assets/f1079b64-6d62-485d-b5d1-a3f04ae88180" />
-
+<img width="1600" height="957" alt="image" src="https://github.com/user-attachments/assets/c8b1137a-0f9c-45a2-988e-44a849b90cfd" />
 
 **RESULT:**
 
